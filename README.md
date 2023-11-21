@@ -1,4 +1,2 @@
 # Robocup
-Prueba
-IsbraA
-
+ibra no sabe nada
